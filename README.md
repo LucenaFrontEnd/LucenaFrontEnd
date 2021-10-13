@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente Trabalho em um Provedor como Técnico de infraestrutura de Projetos FTTH (fibra óptica).
 - 🌱 Nesse momento estou estudando as linguagens de programação base HTML5, CSS3 e JAVASCRIPT com a intenção de ser desenvolvedor Front End.
-- 👯 Quero poder ajudar o máximo possível com os meus códigos 
 - 👨‍🎓 Aluno da Alura 
 
 <div>

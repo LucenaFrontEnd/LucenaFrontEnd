@@ -5,8 +5,8 @@
 - 👯 Quero poder ajudar o máximo possível com os meus códigos 
 - 👨‍🎓 Aluno da Alura 
 
-<div align = "center">
+<div>
   <a href="https://github.com/LucenaFrontEnd">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LucenaFrontEnd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucenaFrontEnd&layout=compact&langs_count=7&theme=dark" />
 </div>
+
